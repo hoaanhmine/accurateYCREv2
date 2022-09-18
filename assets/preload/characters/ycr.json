@@ -1,0 +1,107 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				18,
+				-51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "laugh",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "laugh_Instance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				360,
+				7
+			],
+			"anim": "scream",
+			"fps": 24,
+			"name": "scream",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-69,
+				129
+			],
+			"loop": false,
+			"fps": 42,
+			"anim": "singUP",
+			"indices": [],
+			"name": "normal_up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				67
+			],
+			"anim": "idle",
+			"fps": 28,
+			"name": "normal_idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-26,
+				-31
+			],
+			"indices": [],
+			"fps": 42,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "normal_right"
+		},
+		{
+			"offsets": [
+				184,
+				22
+			],
+			"indices": [],
+			"fps": 42,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "normal_left"
+		},
+		{
+			"offsets": [
+				21,
+				-6
+			],
+			"indices": [],
+			"fps": 42,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "normal_down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/YCR",
+	"position": [
+		0,
+		380
+	],
+	"healthicon": "ycr",
+	"flip_x": false,
+	"healthbar_colors": [
+		22,
+		13,
+		135
+	],
+	"camera_position": [
+		-80,
+		90
+	],
+	"sing_duration": 7.1,
+	"scale": 1
+}

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="encore-bf-pixel.png">
+<SubTexture name="encore-bf-pixel idle0000" x="0" y="80" width="31" height="36" frameX="-1" frameY="-2" frameWidth="35" frameHeight="39" />
+<SubTexture name="encore-bf-pixel idle0001" x="0" y="80" width="31" height="36" frameX="-1" frameY="-2" frameWidth="35" frameHeight="39" />
+<SubTexture name="encore-bf-pixel idle0002" x="31" y="80" width="33" height="36" frameX="-1" frameY="-2" frameWidth="35" frameHeight="39" />
+<SubTexture name="encore-bf-pixel idle0003" x="31" y="80" width="33" height="36" frameX="-1" frameY="-2" frameWidth="35" frameHeight="39" />
+<SubTexture name="encore-bf-pixel idle0004" x="76" y="0" width="33" height="37" frameX="-1" frameY="-1" frameWidth="35" frameHeight="39" />
+<SubTexture name="encore-bf-pixel idle0005" x="76" y="0" width="33" height="37" frameX="-1" frameY="-1" frameWidth="35" frameHeight="39" />
+<SubTexture name="encore-bf-pixel left0000" x="0" y="43" width="44" height="37" frameX="-1" frameY="-1" frameWidth="46" frameHeight="39" />
+<SubTexture name="encore-bf-pixel left0001" x="0" y="43" width="44" height="37" frameX="-1" frameY="-1" frameWidth="46" frameHeight="39" />
+<SubTexture name="encore-bf-pixel left0002" x="44" y="43" width="42" height="37" frameX="-2" frameY="-1" frameWidth="46" frameHeight="39" />
+<SubTexture name="encore-bf-pixel left0003" x="44" y="43" width="42" height="37" frameX="-2" frameY="-1" frameWidth="46" frameHeight="39" />
+<SubTexture name="encore-bf-pixel left0004" x="44" y="43" width="42" height="37" frameX="-2" frameY="-1" frameWidth="46" frameHeight="39" />
+<SubTexture name="encore-bf-pixel left0005" x="44" y="43" width="42" height="37" frameX="-2" frameY="-1" frameWidth="46" frameHeight="39" />
+<SubTexture name="encore-bf-pixel down0000" x="95" y="80" width="31" height="34" frameX="-1" frameY="-2" frameWidth="33" frameHeight="37" />
+<SubTexture name="encore-bf-pixel down0001" x="95" y="80" width="31" height="34" frameX="-1" frameY="-2" frameWidth="33" frameHeight="37" />
+<SubTexture name="encore-bf-pixel down0002" x="64" y="80" width="31" height="35" frameX="-1" frameY="-1" frameWidth="33" frameHeight="37" />
+<SubTexture name="encore-bf-pixel down0003" x="64" y="80" width="31" height="35" frameX="-1" frameY="-1" frameWidth="33" frameHeight="37" />
+<SubTexture name="encore-bf-pixel down0004" x="64" y="80" width="31" height="35" frameX="-1" frameY="-1" frameWidth="33" frameHeight="37" />
+<SubTexture name="encore-bf-pixel down0005" x="64" y="80" width="31" height="35" frameX="-1" frameY="-1" frameWidth="33" frameHeight="37" />
+<SubTexture name="encore-bf-pixel up0000" x="0" y="0" width="38" height="43" frameX="-1" frameY="-1" frameWidth="40" frameHeight="45" />
+<SubTexture name="encore-bf-pixel up0001" x="0" y="0" width="38" height="43" frameX="-1" frameY="-1" frameWidth="40" frameHeight="45" />
+<SubTexture name="encore-bf-pixel up0002" x="38" y="0" width="38" height="42" frameX="-1" frameY="-2" frameWidth="40" frameHeight="45" />
+<SubTexture name="encore-bf-pixel up0003" x="38" y="0" width="38" height="42" frameX="-1" frameY="-2" frameWidth="40" frameHeight="45" />
+<SubTexture name="encore-bf-pixel up0004" x="38" y="0" width="38" height="42" frameX="-1" frameY="-2" frameWidth="40" frameHeight="45" />
+<SubTexture name="encore-bf-pixel up0005" x="38" y="0" width="38" height="42" frameX="-1" frameY="-2" frameWidth="40" frameHeight="45" />
+<SubTexture name="encore-bf-pixel right0000" x="109" y="0" width="35" height="37" frameX="-1" frameY="-1" frameWidth="37" frameHeight="39" />
+<SubTexture name="encore-bf-pixel right0001" x="109" y="0" width="35" height="37" frameX="-1" frameY="-1" frameWidth="37" frameHeight="39" />
+<SubTexture name="encore-bf-pixel right0002" x="109" y="37" width="33" height="37" frameX="-2" frameY="-1" frameWidth="37" frameHeight="39" />
+<SubTexture name="encore-bf-pixel right0003" x="109" y="37" width="33" height="37" frameX="-2" frameY="-1" frameWidth="37" frameHeight="39" />
+<SubTexture name="encore-bf-pixel right0004" x="109" y="37" width="33" height="37" frameX="-2" frameY="-1" frameWidth="37" frameHeight="39" />
+<SubTexture name="encore-bf-pixel right0005" x="109" y="37" width="33" height="37" frameX="-2" frameY="-1" frameWidth="37" frameHeight="39" />
+</TextureAtlas>
